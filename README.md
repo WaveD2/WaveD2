@@ -7,19 +7,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </div>
 
----
+<!-- ---
 
-## 👨‍💻 Giới thiệu bản thân
+My name is Nguyen Dang Tung.
 
-Xin chào! Mình là **Nguyễn Đăng Tùng** – một **Fullstack Developer** với niềm đam mê cháy bỏng trong việc phát triển những sản phẩm web chất lượng cao.  
-Với nhiều năm kinh nghiệm làm việc với cả **Frontend** và **Backend**, mình đặc biệt yêu thích việc tạo ra **trải nghiệm người dùng mượt mà** và hệ thống **backend mạnh mẽ, dễ mở rộng**.
+I have over years at Fullstack Developer position.
 
-Mình luôn hướng đến sự **tinh gọn trong kiến trúc**, **sạch sẽ trong codebase**, và **tối ưu trong hiệu suất**.
+I am excellent at JS,experienced with Python, Data structures, JAVA. Along with these technical skills, I have good communication skills and project management that I feel necessary for this job role.
 
-💡 **Triết lý làm việc:**  
+I like reading books and have a passion for writing and play game
+
+<!-- 💡 **Triết lý làm việc:**  
 > "Không chỉ viết code chạy được, mà phải viết code đẹp – dễ đọc, dễ hiểu, dễ duy trì."
 
----
+--- -->
 
 ## 🧠 Kỹ năng chính
 
@@ -44,7 +45,7 @@ Mình luôn hướng đến sự **tinh gọn trong kiến trúc**, **sạch s�
 
 <p align="center">
   <a href="mailto:tungdev64@gmail.com"><img src="https://img.shields.io/badge/email-tungdev64@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nguyendangtung" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-nguyendangtung-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://www.linkedin.com/in/nguyendangtung" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-nguyendangtung-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
   <a href="https://facebook.com/nguyendangtung" target="_blank"><img src="https://img.shields.io/badge/Facebook-nguyendangtung-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
